@@ -1,0 +1,3 @@
+package hostdb
+
+func main() {}
